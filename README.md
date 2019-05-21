@@ -31,4 +31,4 @@ Create a Reddit script app at https://old.reddit.com/prefs/apps/
 
 ### Extras
 
-To print colours on Windows in the terminal please follow this tutorial: https://recycledrobot.co.uk/words/?print-python-colours
+To print colours on Windows in the terminal please follow this tutorial: [Print Simple Colours With Python](https://recycledrobot.co.uk/words/?print-python-colours)

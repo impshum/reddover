@@ -34,7 +34,7 @@ def main():
     else:
         test = ''
 
-    for submission in reddit.subreddit(target_sub).hot(limit=limit):
+    for submission in reddit.subreddit(target_sub).new(limit=limit):
         t += 1
         submission.comments.replace_more(limit=None)
         for comment in submission.comments.list():

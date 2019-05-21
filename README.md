@@ -19,7 +19,7 @@ Create a Reddit script app at https://old.reddit.com/prefs/apps/
 - Enter all your juicy Reddit details into config.ini
 - All boolean (true/false) options are 1/0
 - Choose maximum downvotes for each comment
-- Limit can be a number or "None"
+- Limit is how many threads to check can be a number or "None"
 - Delete option switches between delete or remove.
 - Sleep timer option is in minutes
 

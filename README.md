@@ -27,3 +27,8 @@ Create a Reddit script app at https://old.reddit.com/prefs/apps/
 ### Run it
 
     python3 run.py
+
+
+### Extras
+
+To print colours on Windows in the terminal please follow this tutorial: https://recycledrobot.co.uk/words/?print-python-colours
